@@ -1,5 +1,5 @@
 public class Main 
 {   public static void main(String[] args) 
-{     System.out.println("Hi Eveyone Hello Jenkins world This is my First CICD!"); 
+{     System.out.println("Java project for CI CD"); 
   }
 } 
